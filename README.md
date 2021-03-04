@@ -5,7 +5,7 @@
 Requirements:
 - Nodejs version > 10.16
 - Google Chrome
-- Tobe logged into your LinkedIn account on the Google Chrome browser
+- To be logged into your LinkedIn account on the Google Chrome browser
 - 3 minutes to set the script up
 
 ## Before running the script:
