@@ -1,8 +1,8 @@
 const inquirer = require('inquirer');
 const puppeteer = require('puppeteer');
 
-const CHROME_EXECUTABLE_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
-const USER_DATA_DIR = 'C:\\Users\\Ceco\\AppData\\Local\\Google\\Chrome\\User Data\\';
+const CHROME_EXECUTABLE_PATH = '';
+const USER_DATA_DIR = '';
 const LINKED_IN_MESSAGES_URL = 'https://www.linkedin.com/messaging';
 
 const args = [
