@@ -24,12 +24,14 @@ To obtain these values you need to perform the following actions:
    
     `Profile Path` into the `USER_DATA_DIR` constant.
 
-## Running the script:
-To run the script simply navigate into the cloned folder and run the following commands:
+## Running the script (administrative privileges required):
+To run the script with **administrative privileges** - simply navigate into the cloned folder and run the following commands:
 
 1. `npm install` - this command needs to be executed only once (on the 1st run).
 
 2. `npm run start`
+
+* Administrative privileges are necessary for the cache copying procedure.
 
 **That's it!**
 
